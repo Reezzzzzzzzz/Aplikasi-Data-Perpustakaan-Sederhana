@@ -1,55 +1,52 @@
-📚 Tubes Struktur Data – Sistem Perpustakaan (C++)
+# 📚 Tubes Struktur Data – Sistem Perpustakaan (C++)
 
-Proyek ini merupakan Tugas Besar Mata Kuliah Struktur Data berupa aplikasi manajemen data perpustakaan menggunakan bahasa C++. Program ini mengelola data buku dan operasi dasar perpustakaan melalui struktur data.
+Proyek ini merupakan Tugas Besar mata kuliah **Struktur Data** yang dibuat menggunakan bahasa **C++**.  
+Aplikasi ini berfungsi untuk mengelola data perpustakaan dengan menerapkan konsep-konsep struktur data.
 
-📂 Struktur Folder
+---
+
+## 📂 Struktur Direktori
 Tubes Struktur Data/
 │
-├── data_perpustakaan.h     // Header struktur & deklarasi fungsi
-├── data_perpustakaan.cpp   // Implementasi fungsi
-├── main.cpp                // Program utama
-└── perpustakaan_final.exe  // File executable (Windows)
+├── data_perpustakaan.h
+├── data_perpustakaan.cpp
+├── main.cpp
+└── perpustakaan_final.exe
 
-⚙️ Cara Compile (Build Program)
-🔹 Windows (Menggunakan g++)
+---
 
-Pastikan compiler g++ (MinGW / TDM-GCC) sudah terpasang.
+## ⚙️ Cara Compile Program
 
+Pastikan compiler **g++ (MinGW / TDM-GCC)** sudah terinstal di komputer.
+
+### 🔹 Windows
+Buka **Command Prompt / Terminal**, lalu masuk ke folder project dan jalankan:
+
+```bash
 g++ main.cpp data_perpustakaan.cpp -o perpustakaan
 
-
-Jika berhasil, akan terbentuk file:
-
+Jika tidak ada error, akan terbentuk file:
 perpustakaan.exe
 
 ▶️ Cara Menjalankan Program
-🔹 Windows
+🔹 Menjalankan hasil compile
 perpustakaan
-
-
 atau
-
 perpustakaan.exe
 
-🔹 Menggunakan File EXE yang Sudah Ada
+🔹 Menjalankan file executable yang sudah tersedia
 perpustakaan_final.exe
 
 🧠 Fitur Program
 
-Menambah data buku
+- Menambahkan data buku
+- Menampilkan data buku
+- Mencari data buku
+- Menghapus data buku
+- Mengimplementasikan konsep struktur data
 
-Menampilkan data buku
+🛠️ Teknologi yang Digunakan
 
-Mencari data buku
-
-Menghapus data buku
-
-Menggunakan konsep struktur data (sesuai materi kuliah)
-
-🛠️ Teknologi
-
-Bahasa: C++
-
-Compiler: g++
-
-Platform: Windows
+- Bahasa Pemrograman: C++
+- Compiler: g++
+- Sistem Operasi: Windows
