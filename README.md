@@ -36,17 +36,3 @@ perpustakaan.exe
 
 🔹 Menjalankan file executable yang sudah tersedia
 perpustakaan_final.exe
-
-🧠 Fitur Program
-
-- Menambahkan data buku
-- Menampilkan data buku
-- Mencari data buku
-- Menghapus data buku
-- Mengimplementasikan konsep struktur data
-
-🛠️ Teknologi yang Digunakan
-
-- Bahasa Pemrograman: C++
-- Compiler: g++
-- Sistem Operasi: Windows
