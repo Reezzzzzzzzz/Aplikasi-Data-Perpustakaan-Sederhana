@@ -7,11 +7,9 @@ Aplikasi ini berfungsi untuk mengelola data perpustakaan dengan menerapkan konse
 
 ## 📂 Struktur Direktori
 Tubes Struktur Data/
-│
-├── data_perpustakaan.h
-├── data_perpustakaan.cpp
-├── main.cpp
-└── perpustakaan_final.exe
+── data_perpustakaan.h
+── data_perpustakaan.cpp
+── main.cpp
 
 ---
 
