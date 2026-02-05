@@ -5,14 +5,6 @@ Aplikasi ini berfungsi untuk mengelola data perpustakaan dengan menerapkan konse
 
 ---
 
-## 📂 Struktur Direktori
-Tubes Struktur Data/
-data_perpustakaan.h
-data_perpustakaan.cpp
-main.cpp
-
----
-
 ## ⚙️ Cara Compile Program
 
 Pastikan compiler **g++ (MinGW / TDM-GCC)** sudah terinstal di komputer.
